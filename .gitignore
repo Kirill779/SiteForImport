@@ -1,0 +1,8 @@
+# Каталог /tmp
+/tmp
+#Старые файлы
+*.*_old
+*.*_backup
+# Прочий мусор
+Thumbs.db
+*.*DS_Store
